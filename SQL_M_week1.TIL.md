@@ -87,7 +87,10 @@
 
 
 ~~~
-여기에 답을 작성해주세요.
+1. DBMS
+2. RDBMS
+3. SQL
+4. SQL Server
 ~~~
 
 
